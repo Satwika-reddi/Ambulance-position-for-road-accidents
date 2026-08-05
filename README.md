@@ -89,10 +89,6 @@ Ensure you have the following installed:
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or suggestions.
 
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
